@@ -32,8 +32,8 @@ Feel free to explore and use this component in your own projects.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-with-tailwind-css-7RtMd6hSsu](https://www.frontendmentor.io/solutions/four-card-feature-section-with-tailwind-css-7RtMd6hSsu)
+- Live Site URL: [https://sultanfarrel.github.io/four-card-feature-section/](https://sultanfarrel.github.io/four-card-feature-section/)
 
 ### Built with
 
